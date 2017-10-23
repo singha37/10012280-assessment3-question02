@@ -1,0 +1,3 @@
+C:\Users\10012280\desktop\class\obj\Debug\netcoreapp2.0\class.csproj.CoreCompileInputs.cache
+C:\Users\10012280\desktop\class\obj\Debug\netcoreapp2.0\class.AssemblyInfoInputs.cache
+C:\Users\10012280\desktop\class\obj\Debug\netcoreapp2.0\class.AssemblyInfo.cs
